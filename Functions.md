@@ -50,4 +50,4 @@
 
 - Control Structure
   - single entry / single exit
-  - do not use exception as control flow
+  - [do not use exception as control flow](exception_as_control.md)
